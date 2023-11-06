@@ -1,0 +1,24 @@
+
+## Node packages
+node_modules
+
+## Compiled files
+dist
+
+## Env
+.env.local
+
+## public
+public/*
+
+## shared
+shared/*
+
+## logs
+logs/*
+
+## admin
+admin/*
+
+## plugin
+plugins/*
